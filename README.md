@@ -6,39 +6,48 @@ Online Keyboard Checker Tool
 An online keyboard checker tool is a web-based utility designed to test the functionality of a computer keyboard. It allows users to verify whether individual keys on their keyboard are functioning correctly, ensuring that each keypress is registered and displayed accurately. These tools are simple, efficient, and widely used by individuals troubleshooting keyboard issues.
 
 
-Features of a Keyboard Checker Tool
-                        1) Key Detection: Displays the key pressed in real-time, ensuring it is recognized correctly.
-                        2) Visual Feedback: Highlights or marks keys on a virtual keyboard to confirm they are working.
-                        3) Cross-Platform: Accessible through any web browser on desktops, laptops, and even mobile devices.
-                        4) No Installation Required: Operates directly within a browser, eliminating the need for downloads or installations.
-                        5) Support for All Key Types: Tests regular keys, special function keys (like F1-F12), and modifier keys (Shift, Ctrl, Alt).
+Features of a Keyboard Checker Tool : 
 
-Why Use a Keyboard Checker Tool?
+                        1) Key Detection: Displays the key pressed in real-time, ensuring it is recognized correctly.
+                        
+                        2) Visual Feedback: Highlights or marks keys on a virtual keyboard to confirm they are working.
+                        
+                        3) Cross-Platform: Accessible through any web browser on desktops, laptops, and even mobile devices.
+                        
+                        4) No Installation Required: Operates directly within a browser, eliminating the need for downloads or installations.
+                        
+                        5) Support for All Key Types: Tests regular keys, special function keys (like F1-F12), and modifier keys (Shift, Ctrl, Alt).
+                        
+
+Why Use a Keyboard Checker Tool? : 
+
                         Troubleshooting Hardware Issues: Identify faulty keys due to wear and tear, dirt, or physical damage.
-                        <br>
+                        
                         Verifying New Keyboards: Test the functionality of newly purchased or repaired keyboards.
-                        <br>
+                        
                         Gaming Setup Optimization: Check responsiveness for gaming-specific key combinations.
-                        <br>
+                        
                         Typing Practice: Ensure no missed or "stuck" keys during typing exercises.
 
-How It Works
+How It Works : 
+
                         1) Open the keyboard checker tool in a web browser.
-                        <br>
+                        
                         2) Press any key on the physical keyboard.
-                        <br>
+                        
                         3) The tool visually highlights the corresponding key on the virtual keyboard display.
-                        <br>
+                        
                         4) Use this feedback to identify keys that are unresponsive or behaving incorrectly.
 
 
-Advantages of Online Keyboard Checker Tools
+Advantages of Online Keyboard Checker Tools : 
+
                         Convenient: Accessible from anywhere with an internet connection.
-                        <br>
+                        
                         User-Friendly: Easy-to-use interfaces suitable for all skill levels.
-                        <br>
+                        
                         Free to Use: Most online keyboard checkers are available at no cost.
-                        <br>
+                        
                         Supports All Layouts: Compatible with various keyboard layouts (e.g., QWERTY, AZERTY, Dvorak).
 
                     
