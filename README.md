@@ -8,6 +8,7 @@ Keyboard Checker, Keyboard test online, Keyboard Checker Online, keyboard tester
 Online Keyboard Checker Tool
 An online keyboard checker tool is a web-based utility designed to test the functionality of a computer keyboard. It allows users to verify whether individual keys on their keyboard are functioning correctly, ensuring that each keypress is registered and displayed accurately. These tools are simple, efficient, and widely used by individuals troubleshooting keyboard issues.
 
+![image](https://github.com/user-attachments/assets/e300ffec-e39f-40e0-a141-f4c49f72eff5)
 
 Features of a Keyboard Checker Tool : 
 
