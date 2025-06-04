@@ -2,6 +2,9 @@
 
 Visit : https://keyboardtester.2all.in
 
+Keyboard Test Online - test all keys of your keyboard online by simply pressing key from keyboard
+Keyboard Checker, Keyboard test online, Keyboard Checker Online, keyboard tester, keyboard tester online, keyboard keys check, keyboard key test, keyboard check online, check keyboard keys online, check keyboard keys
+
 Online Keyboard Checker Tool
 An online keyboard checker tool is a web-based utility designed to test the functionality of a computer keyboard. It allows users to verify whether individual keys on their keyboard are functioning correctly, ensuring that each keypress is registered and displayed accurately. These tools are simple, efficient, and widely used by individuals troubleshooting keyboard issues.
 
